@@ -1,2 +1,2 @@
-# GUP
-The code of our GUP
+# FOG
+The code of our FOG
